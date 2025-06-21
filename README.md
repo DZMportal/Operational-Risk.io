@@ -406,7 +406,8 @@
             <h2 style="text-align: center; margin-bottom: 2rem;">Authors</h2>
             <div style="display: flex; justify-content: center; gap: 8rem; flex-wrap: wrap;">
               <div style="text-align: center; max-width: 150px;">
-                <img src="author1.png" alt="Author 1" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+                <img src="![author1](https://github.com/user-attachments/assets/12e613e6-c60b-4fd1-922f-fa0f4d11696f)
+" alt="Author 1" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
                 <p style="margin-top: 0.5rem; font-weight: bold; white-space: nowrap;">Diana E. Dimaano</p>
                 <p style="margin-top: 0.5rem; font-weight: bold; white-space: nowrap;">21-57976@g.batstate-u.edu.ph</p>
               </div>
