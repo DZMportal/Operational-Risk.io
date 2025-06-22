@@ -206,8 +206,8 @@
         >
         <div class="nav-links">
           <a href="#home">Home</a>
-          <a href="#part1">Part 1</a>
-          <a href="#about">Part 2</a>
+          <a href="#part1">Risk</a>
+          <a href="#about">Mitigation</a>
           <a href="#infographics">Infographics</a>
         </div>
       </nav>
