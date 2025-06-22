@@ -206,8 +206,8 @@
         >
         <div class="nav-links">
           <a href="#home">Home</a>
-          <a href="#part1">Risk</a>
-          <a href="#about">Mitigation</a>
+          <a href="#part1">Operational Risks</a>
+          <a href="#about">Proposed Strategies</a>
           <a href="#infographics">Infographics</a>
         </div>
       </nav>
@@ -217,10 +217,9 @@
 
     <section class="hero" id="part1">
       <div class="hero-content">
-        <h1>OPERATIONAL RISKS</h1>
+        <h1>OPERATIONAL RISKS ENCOUNTERED BY SHIP[PING LINES IN MANILA</h1>
         <p>
-          An overview of risks associated with maritime operations and
-          strategies to mitigate them
+          An overview of the operational risks encountered by shipping lines during sea transportation and port loadng and unloading operations, along with proposed strategies to mitigate them.
         </p>
         <a href="#services">
           <button class="cta-button">Risks</button>
